@@ -1,0 +1,27 @@
+Temat: Polimorfizm - Wielopostaciowość. 
+
+					
+OOP				    public
+	- Polimorfizm		      /\
+	- Dziedziczenie 	      / 
+	- Enkapsulacja == Hermetyzacja -->  protected
+				      \
+				      \/
+				    private	
+
+zad. Mirsoław Zelen c++ co to Polimorfizm oglodnij se w chaupie
+
+ZadDoZrobieniaNaTeraz:
+
+Utwóz app w c++.
+klasa abs: postac{}
+klasa dziedzicząca: Lucznik{}, Droid{}, Kosmita{}
+Wszystkie klasy mają 2 metody, które nadpisuja z klasy: Postac{} o nazwach:
+- prezentacjaPostaci()
+- krainaPostaci()
+
+
+
+
+
+
